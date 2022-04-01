@@ -11,8 +11,8 @@ import re
 import codecs
 import matplotlib as plt
 
-userid = 'gerard.mazi@gmail.com'
-password = 'rakutenisnumerouno'
+userid = ''
+password = ''
 
 # Download updated chromedriver and extract zip into the Downloads directory
 # Open terminal and navigate to Downloads directory as cd /Users/gerardmazi/Downloads/
